@@ -1,0 +1,6 @@
+# I recommend to run this to setup enviorment fast:
+# pip3 install torch torchvision torchaudio
+# pip install scipy
+# pip install pyarrow
+# pip install fastparquet
+# pip install torch torchvision pandas numpy scipy scikit-learn matplotlib

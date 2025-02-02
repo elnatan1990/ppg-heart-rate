@@ -1,0 +1,475 @@
+C:\Users\User\anaconda3-new\envs\bb\python.exe C:\Users\User\PycharmProjects\bb\train_save.py
+Using device: cpu
+Starting Challenge 1: Basic HR Estimation
+Epoch 1/50:
+Train Loss: 6165.2644
+Val Loss: 4040.2511
+Val MAE: 62.4738 BPM
+--------------------------------------------------
+Validation loss decreased from inf to 4040.2511. Saving model...
+Epoch 2/50:
+Train Loss: 2027.7412
+Val Loss: 583.6404
+Val MAE: 22.5916 BPM
+--------------------------------------------------
+Validation loss decreased from 4040.2511 to 583.6404. Saving model...
+Epoch 3/50:
+Train Loss: 330.4158
+Val Loss: 190.9530
+Val MAE: 11.8747 BPM
+--------------------------------------------------
+Validation loss decreased from 583.6404 to 190.9530. Saving model...
+Epoch 4/50:
+Train Loss: 193.4087
+Val Loss: 72.9793
+Val MAE: 6.2745 BPM
+--------------------------------------------------
+Validation loss decreased from 190.9530 to 72.9793. Saving model...
+Epoch 5/50:
+Train Loss: 193.6708
+Val Loss: 62.5748
+Val MAE: 5.5007 BPM
+--------------------------------------------------
+Validation loss decreased from 72.9793 to 62.5748. Saving model...
+Epoch 6/50:
+Train Loss: 185.4438
+Val Loss: 71.6257
+Val MAE: 6.2482 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 62.5748 at epoch 5.
+Epoch 7/50:
+Train Loss: 186.8747
+Val Loss: 58.8134
+Val MAE: 5.3129 BPM
+--------------------------------------------------
+Validation loss decreased from 62.5748 to 58.8134. Saving model...
+Epoch 8/50:
+Train Loss: 182.9173
+Val Loss: 74.2401
+Val MAE: 6.4286 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 58.8134 at epoch 7.
+Epoch 9/50:
+Train Loss: 177.2362
+Val Loss: 56.9636
+Val MAE: 5.0478 BPM
+--------------------------------------------------
+Validation loss decreased from 58.8134 to 56.9636. Saving model...
+Epoch 10/50:
+Train Loss: 181.7500
+Val Loss: 56.9427
+Val MAE: 5.1031 BPM
+--------------------------------------------------
+Validation loss decreased from 56.9636 to 56.9427. Saving model...
+Epoch 11/50:
+Train Loss: 172.8019
+Val Loss: 63.8839
+Val MAE: 5.2088 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 56.9427 at epoch 10.
+Epoch 12/50:
+Train Loss: 170.7720
+Val Loss: 57.7809
+Val MAE: 4.8454 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 56.9427 at epoch 10.
+Epoch 13/50:
+Train Loss: 173.9080
+Val Loss: 56.9412
+Val MAE: 4.7864 BPM
+--------------------------------------------------
+Validation loss decreased from 56.9427 to 56.9412. Saving model...
+Epoch 14/50:
+Train Loss: 172.0448
+Val Loss: 72.1493
+Val MAE: 6.4998 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 56.9412 at epoch 13.
+Epoch 15/50:
+Train Loss: 168.2282
+Val Loss: 56.5620
+Val MAE: 5.3151 BPM
+--------------------------------------------------
+Validation loss decreased from 56.9412 to 56.5620. Saving model...
+Epoch 16/50:
+Train Loss: 169.1942
+Val Loss: 68.0322
+Val MAE: 5.7770 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 56.5620 at epoch 15.
+Epoch 17/50:
+Train Loss: 168.2127
+Val Loss: 59.8016
+Val MAE: 5.3959 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 56.5620 at epoch 15.
+Epoch 18/50:
+Train Loss: 173.4805
+Val Loss: 54.8695
+Val MAE: 5.1036 BPM
+--------------------------------------------------
+Validation loss decreased from 56.5620 to 54.8695. Saving model...
+Epoch 19/50:
+Train Loss: 165.6492
+Val Loss: 51.3997
+Val MAE: 4.7344 BPM
+--------------------------------------------------
+Validation loss decreased from 54.8695 to 51.3997. Saving model...
+Epoch 20/50:
+Train Loss: 174.2900
+Val Loss: 57.6171
+Val MAE: 5.5293 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 51.3997 at epoch 19.
+Epoch 21/50:
+Train Loss: 166.5687
+Val Loss: 59.3508
+Val MAE: 5.7481 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 51.3997 at epoch 19.
+Epoch 22/50:
+Train Loss: 163.5915
+Val Loss: 50.3622
+Val MAE: 4.5173 BPM
+--------------------------------------------------
+Validation loss decreased from 51.3997 to 50.3622. Saving model...
+Epoch 23/50:
+Train Loss: 168.7570
+Val Loss: 55.5840
+Val MAE: 5.0770 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 50.3622 at epoch 22.
+Epoch 24/50:
+Train Loss: 166.3709
+Val Loss: 50.5384
+Val MAE: 4.7568 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 50.3622 at epoch 22.
+Epoch 25/50:
+Train Loss: 162.1864
+Val Loss: 51.0723
+Val MAE: 4.7264 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 50.3622 at epoch 22.
+Epoch 26/50:
+Train Loss: 159.1583
+Val Loss: 54.0004
+Val MAE: 4.7235 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 50.3622 at epoch 22.
+Epoch 27/50:
+Train Loss: 162.4843
+Val Loss: 57.8993
+Val MAE: 4.9681 BPM
+--------------------------------------------------
+Validation loss did not decrease. Best was 50.3622 at epoch 22.
+Early stopping triggered after 27 epochs. Best validation loss was 50.3622 at epoch 22
+Saved best HR model from epoch 22 with validation loss 50.3622
+Challenge 1 Validation MAE: 4.9681 BPM
+
+Starting Challenge 2: Noisy Signal Detection
+Epoch 1/50:
+Train Loss: 44.1044
+Val Loss: 1.3227
+Val Accuracy: 0.9330
+--------------------------------------------------
+Validation loss decreased from inf to 1.3227. Saving model...
+Epoch 2/50:
+Train Loss: 1.3039
+Val Loss: 0.6879
+Val Accuracy: 0.9360
+--------------------------------------------------
+Validation loss decreased from 1.3227 to 0.6879. Saving model...
+Epoch 3/50:
+Train Loss: 0.7898
+Val Loss: 0.5327
+Val Accuracy: 0.9580
+--------------------------------------------------
+Validation loss decreased from 0.6879 to 0.5327. Saving model...
+Epoch 4/50:
+Train Loss: 0.7282
+Val Loss: 0.4764
+Val Accuracy: 0.9580
+--------------------------------------------------
+Validation loss decreased from 0.5327 to 0.4764. Saving model...
+Epoch 5/50:
+Train Loss: 0.5677
+Val Loss: 0.4932
+Val Accuracy: 0.9510
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.4764 at epoch 4.
+Epoch 6/50:
+Train Loss: 0.5113
+Val Loss: 0.4476
+Val Accuracy: 0.9660
+--------------------------------------------------
+Validation loss decreased from 0.4764 to 0.4476. Saving model...
+Epoch 7/50:
+Train Loss: 0.4829
+Val Loss: 0.4166
+Val Accuracy: 0.9710
+--------------------------------------------------
+Validation loss decreased from 0.4476 to 0.4166. Saving model...
+Epoch 8/50:
+Train Loss: 0.4847
+Val Loss: 0.4222
+Val Accuracy: 0.9530
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.4166 at epoch 7.
+Epoch 9/50:
+Train Loss: 0.4641
+Val Loss: 0.4193
+Val Accuracy: 0.9510
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.4166 at epoch 7.
+Epoch 10/50:
+Train Loss: 0.4370
+Val Loss: 0.3756
+Val Accuracy: 0.9680
+--------------------------------------------------
+Validation loss decreased from 0.4166 to 0.3756. Saving model...
+Epoch 11/50:
+Train Loss: 0.4252
+Val Loss: 0.3649
+Val Accuracy: 0.9620
+--------------------------------------------------
+Validation loss decreased from 0.3756 to 0.3649. Saving model...
+Epoch 12/50:
+Train Loss: 0.3941
+Val Loss: 0.3353
+Val Accuracy: 0.9690
+--------------------------------------------------
+Validation loss decreased from 0.3649 to 0.3353. Saving model...
+Epoch 13/50:
+Train Loss: 0.3901
+Val Loss: 0.3129
+Val Accuracy: 0.9670
+--------------------------------------------------
+Validation loss decreased from 0.3353 to 0.3129. Saving model...
+Epoch 14/50:
+Train Loss: 0.4057
+Val Loss: 0.3763
+Val Accuracy: 0.9590
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.3129 at epoch 13.
+Epoch 15/50:
+Train Loss: 3.2612
+Val Loss: 1.1553
+Val Accuracy: 0.9300
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.3129 at epoch 13.
+Epoch 16/50:
+Train Loss: 0.7384
+Val Loss: 0.3478
+Val Accuracy: 0.9530
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.3129 at epoch 13.
+Epoch 17/50:
+Train Loss: 0.3976
+Val Loss: 0.3266
+Val Accuracy: 0.9610
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.3129 at epoch 13.
+Epoch 18/50:
+Train Loss: 0.3567
+Val Loss: 0.3089
+Val Accuracy: 0.9710
+--------------------------------------------------
+Validation loss decreased from 0.3129 to 0.3089. Saving model...
+Epoch 19/50:
+Train Loss: 0.3545
+Val Loss: 0.2998
+Val Accuracy: 0.9680
+--------------------------------------------------
+Validation loss decreased from 0.3089 to 0.2998. Saving model...
+Epoch 20/50:
+Train Loss: 0.3242
+Val Loss: 0.2900
+Val Accuracy: 0.9690
+--------------------------------------------------
+Validation loss decreased from 0.2998 to 0.2900. Saving model...
+Epoch 21/50:
+Train Loss: 0.3167
+Val Loss: 0.2805
+Val Accuracy: 0.9690
+--------------------------------------------------
+Validation loss decreased from 0.2900 to 0.2805. Saving model...
+Epoch 22/50:
+Train Loss: 0.3085
+Val Loss: 0.2635
+Val Accuracy: 0.9790
+--------------------------------------------------
+Validation loss decreased from 0.2805 to 0.2635. Saving model...
+Epoch 23/50:
+Train Loss: 0.3016
+Val Loss: 0.2574
+Val Accuracy: 0.9760
+--------------------------------------------------
+Validation loss decreased from 0.2635 to 0.2574. Saving model...
+Epoch 24/50:
+Train Loss: 0.2927
+Val Loss: 0.2562
+Val Accuracy: 0.9780
+--------------------------------------------------
+Validation loss decreased from 0.2574 to 0.2562. Saving model...
+Epoch 25/50:
+Train Loss: 0.2930
+Val Loss: 0.2505
+Val Accuracy: 0.9640
+--------------------------------------------------
+Validation loss decreased from 0.2562 to 0.2505. Saving model...
+Epoch 26/50:
+Train Loss: 0.2740
+Val Loss: 0.2305
+Val Accuracy: 0.9800
+--------------------------------------------------
+Validation loss decreased from 0.2505 to 0.2305. Saving model...
+Epoch 27/50:
+Train Loss: 0.2792
+Val Loss: 0.2251
+Val Accuracy: 0.9780
+--------------------------------------------------
+Validation loss decreased from 0.2305 to 0.2251. Saving model...
+Epoch 28/50:
+Train Loss: 0.2632
+Val Loss: 0.2181
+Val Accuracy: 0.9790
+--------------------------------------------------
+Validation loss decreased from 0.2251 to 0.2181. Saving model...
+Epoch 29/50:
+Train Loss: 0.2582
+Val Loss: 0.2165
+Val Accuracy: 0.9770
+--------------------------------------------------
+Validation loss decreased from 0.2181 to 0.2165. Saving model...
+Epoch 30/50:
+Train Loss: 0.2571
+Val Loss: 0.2033
+Val Accuracy: 0.9820
+--------------------------------------------------
+Validation loss decreased from 0.2165 to 0.2033. Saving model...
+Epoch 31/50:
+Train Loss: 0.2564
+Val Loss: 0.1991
+Val Accuracy: 0.9840
+--------------------------------------------------
+Validation loss decreased from 0.2033 to 0.1991. Saving model...
+Epoch 32/50:
+Train Loss: 0.2412
+Val Loss: 0.1889
+Val Accuracy: 0.9830
+--------------------------------------------------
+Validation loss decreased from 0.1991 to 0.1889. Saving model...
+Epoch 33/50:
+Train Loss: 0.2422
+Val Loss: 0.1935
+Val Accuracy: 0.9710
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.1889 at epoch 32.
+Epoch 34/50:
+Train Loss: 0.2330
+Val Loss: 0.1806
+Val Accuracy: 0.9770
+--------------------------------------------------
+Validation loss decreased from 0.1889 to 0.1806. Saving model...
+Epoch 35/50:
+Train Loss: 0.2306
+Val Loss: 0.1822
+Val Accuracy: 0.9720
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.1806 at epoch 34.
+Epoch 36/50:
+Train Loss: 0.2306
+Val Loss: 0.1718
+Val Accuracy: 0.9830
+--------------------------------------------------
+Validation loss decreased from 0.1806 to 0.1718. Saving model...
+Epoch 37/50:
+Train Loss: 0.2176
+Val Loss: 0.1634
+Val Accuracy: 0.9830
+--------------------------------------------------
+Validation loss decreased from 0.1718 to 0.1634. Saving model...
+Epoch 38/50:
+Train Loss: 0.5181
+Val Loss: 0.2431
+Val Accuracy: 0.9550
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.1634 at epoch 37.
+Epoch 39/50:
+Train Loss: 0.3032
+Val Loss: 0.1950
+Val Accuracy: 0.9580
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.1634 at epoch 37.
+Epoch 40/50:
+Train Loss: 0.2703
+Val Loss: 0.1753
+Val Accuracy: 0.9730
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.1634 at epoch 37.
+Epoch 41/50:
+Train Loss: 0.2050
+Val Loss: 0.1525
+Val Accuracy: 0.9770
+--------------------------------------------------
+Validation loss decreased from 0.1634 to 0.1525. Saving model...
+Epoch 42/50:
+Train Loss: 0.1814
+Val Loss: 0.1511
+Val Accuracy: 0.9770
+--------------------------------------------------
+Validation loss decreased from 0.1525 to 0.1511. Saving model...
+Epoch 43/50:
+Train Loss: 0.1844
+Val Loss: 0.1576
+Val Accuracy: 0.9710
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.1511 at epoch 42.
+Epoch 44/50:
+Train Loss: 0.1744
+Val Loss: 0.1469
+Val Accuracy: 0.9720
+--------------------------------------------------
+Validation loss decreased from 0.1511 to 0.1469. Saving model...
+Epoch 45/50:
+Train Loss: 0.2074
+Val Loss: 0.1371
+Val Accuracy: 0.9820
+--------------------------------------------------
+Validation loss decreased from 0.1469 to 0.1371. Saving model...
+Epoch 46/50:
+Train Loss: 0.1759
+Val Loss: 0.1284
+Val Accuracy: 0.9830
+--------------------------------------------------
+Validation loss decreased from 0.1371 to 0.1284. Saving model...
+Epoch 47/50:
+Train Loss: 0.1665
+Val Loss: 0.1281
+Val Accuracy: 0.9810
+--------------------------------------------------
+Validation loss decreased from 0.1284 to 0.1281. Saving model...
+Epoch 48/50:
+Train Loss: 0.1642
+Val Loss: 0.1262
+Val Accuracy: 0.9810
+--------------------------------------------------
+Validation loss decreased from 0.1281 to 0.1262. Saving model...
+Epoch 49/50:
+Train Loss: 0.1550
+Val Loss: 0.1187
+Val Accuracy: 0.9830
+--------------------------------------------------
+Validation loss decreased from 0.1262 to 0.1187. Saving model...
+Epoch 50/50:
+Train Loss: 0.1608
+Val Loss: 0.1224
+Val Accuracy: 0.9900
+--------------------------------------------------
+Validation loss did not decrease. Best was 0.1187 at epoch 49.
+Saved best noise model from epoch 49 with validation loss 0.1187
+
+Training completed!
+
+Process finished with exit code 0
