@@ -526,4 +526,4 @@ if __name__ == "__main__":
         challenge_hr = challenge_hr_estimation_ensemble(ppg_signals)
         mae, ppg_signals = calc_mae(ppg_signals, challenge_hr)
         print(ppg_signals.head())
-        print('MAE: ', mae) # MAE: 6.778399694236167
+        print('MAE: ', mae) # MAE: 6.778399694236167 improved to 6.324337772605617 with classical method
